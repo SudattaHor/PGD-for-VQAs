@@ -1,0 +1,4 @@
+- Z4
+- 2 Strongly entangling layers
+- vary noise level r
+- ESTIMATED SOLUTION OF CIRCUIT WITH 1028 SHOTS

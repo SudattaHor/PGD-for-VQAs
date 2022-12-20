@@ -1,0 +1,3 @@
+- Z4
+- Strongly Entangling layers 2 layers
+- Find 100 bad points
