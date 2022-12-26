@@ -9,7 +9,7 @@ i = sys.argv[1]
 keywords = ["0.0", "0.1", "0.2"]
 for keyword in keywords:
     input_filepath = f"bad_point[{i}]/loss_curves/{keyword}.pkl"
-    output_filepath = f"bad_point[{i}]/loss_curves/{keyword}.eps"
+    output_filepath = f"bad_point[{i}]/loss_curves/{keyword}.png"
 
     with open(input_filepath, "rb") as fd:
         loss_curves = pk.load(fd)
